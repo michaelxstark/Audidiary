@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: rgba(119, 136, 153, 0.3);
+  background-color: rgba(119, 136, 153, 0.2);
 }
 
 .wrapper
@@ -25,6 +25,12 @@ body {
 
 
 .head2 {
+  font-style: normal;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.head3 {
   font-style: normal;
   font-weight: lighter;
   text-align: center;
