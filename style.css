@@ -8,8 +8,8 @@
   padding: 0;
 }
 
-body {
-  background-image: url(Background_Audidiary.png);
+body {'
+  background-image: url('./Background_Audidiary.png');
   background-position: center;
 }
 
