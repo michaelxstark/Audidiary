@@ -9,7 +9,8 @@
 }
 
 body {
-  background-color: rgba(119, 136, 153, 0.2);
+  background-image: url(Background_Audidiary.png);
+  background-position: center;
 }
 
 .wrapper
